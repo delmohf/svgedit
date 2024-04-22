@@ -1,5 +1,9 @@
 # SVG-Edit CHANGES
 
+## 7.3.4-alpha.2
+- Mine: Make svgcanvas class accessible (PR [#964](https://github.com/SVG-Edit/svgedit/pull/964))
+- Mine: Fix build-docs-remove npm script (PR [#962](https://github.com/SVG-Edit/svgedit/pull/962))
+
 ## 7.3.4-alpha.1
 - Mine: Fix initial stroke width (PR [#959](https://github.com/SVG-Edit/svgedit/pull/959))
 - Mine: Fix main file path in package.json (PR [#961](https://github.com/SVG-Edit/svgedit/pull/961))
