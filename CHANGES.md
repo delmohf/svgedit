@@ -1,5 +1,8 @@
 # SVG-Edit CHANGES
 
+## 7.3.4-alpha.3
+- Mine: Make convertUnit accessible (remove previous solution with svgcanvas class) (PR [#965](https://github.com/SVG-Edit/svgedit/pull/965))
+
 ## 7.3.4-alpha.2
 - Mine: Make svgcanvas class accessible (PR [#964](https://github.com/SVG-Edit/svgedit/pull/964))
 - Mine: Fix build-docs-remove npm script (PR [#962](https://github.com/SVG-Edit/svgedit/pull/962))
